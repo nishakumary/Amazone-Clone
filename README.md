@@ -1,1 +1,1 @@
-# Amazone-Clone biginner project 
+# Amazone-Clone beginner project 
